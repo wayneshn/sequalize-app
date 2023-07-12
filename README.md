@@ -27,7 +27,7 @@ To run the app, follow these steps:
 2. Navigate to the project directory:
 
 ```bash
-cd oceanbase-sequelize
+cd sequelize-app
 ```
 
 3. Install the required packages:
