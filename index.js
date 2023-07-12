@@ -76,6 +76,6 @@ app.patch('/contact/:id', async (req, res) => {
 
 db.sequelize.sync().then((req) => {
     app.listen(3000, () => {
-        console.log('server running at port 3000');
+        console.log('Server running at port 3000...');
     });
 });
